@@ -1,0 +1,21 @@
+.headerFront{
+    background: #1C1C1C; 
+    text-align: left;  
+    padding: 10px;
+    -webkit-box-shadow: 2px 16px 22px -17px rgba(0,0,0,1);
+    -moz-box-shadow: 2px 16px 22px -17px rgba(0,0,0,1);
+    box-shadow: 2px 16px 22px -17px rgba(0,0,0,1);
+}
+.btn{
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 100px;
+}
+
+.dropdown-item:hover{
+   background-color:  #6CB2EB;
+   color: white;
+}
+.bg-light {
+    background-color: #1C1C1C!important;
+}
