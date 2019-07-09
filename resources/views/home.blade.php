@@ -35,8 +35,10 @@
   <div class="col-md-6 tab-pane fade " id="pills-Cadatro-Console" role="tabpanel">
     <div class=" container form-group">
       <label for="exampleFormControlInput1"><strong>Nome do Console</strong></label>
-      <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Nome do Console">
-      <button style="margin-top:5px;" class="btn btn-secondary" id="save">Create</button>
+      <input type="text" class="form-control" id="name" placeholder="Nome do Console">
+      <button type="button" style="margin-top:5px;" class="btn btn-secondary" id="save">Create</button>     
+
+
     </div>
     
       
@@ -46,6 +48,7 @@
   <div class="tab-pane fade" id="pills-Lista-Consoles" role="tabpanel">Lista de console</div>
   <div class="tab-pane fade" id="pills-Lista-Roms" role="tabpanel">Lista de roms</div>
 </div>
+
 
 
 @endsection

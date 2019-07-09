@@ -18,6 +18,7 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <script src="/js/jquery-3.3.1.slim.min.js" ></script>  
     <link href="/css/headerBackend.css" rel="stylesheet"> 
     <link href="/css/footer.css" rel="stylesheet">
     <style>

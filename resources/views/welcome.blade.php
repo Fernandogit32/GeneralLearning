@@ -85,7 +85,7 @@
                         <img src="{{ URL::to('/img_front/logo.png') }}">
                 </div>
 
-                
+               
             </div>
         </div>
     </body>
