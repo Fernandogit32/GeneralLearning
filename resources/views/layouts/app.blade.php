@@ -18,6 +18,8 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="/css/headerBackend.css" rel="stylesheet"> 
+    <link href="/css/footer.css" rel="stylesheet">
     <style>
        .navbar-light .navbar-nav .nav-link {
              color: white;

@@ -6,3 +6,10 @@
     -moz-box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.75);
     box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.75);
 }
+
+footer{    
+    width: 100%;    
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    }
